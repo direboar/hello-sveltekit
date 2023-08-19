@@ -9,6 +9,8 @@
 </script>
 
 <div class="centered">
+	<p>Formを実装する例。</p>
+
 	<h1>todos</h1>
 
 	{#if form?.error}
