@@ -19,7 +19,8 @@
                 "esbenp.prettier-vscode", //prettier
                 "svelte.svelte-vscode",
                 "eamodio.gitlens",
-                "firefox-devtools.vscode-firefox-debug"
+                "firefox-devtools.vscode-firefox-debug",
+                "bradlc.vscode-tailwindcss"
             ]
         }
     }
